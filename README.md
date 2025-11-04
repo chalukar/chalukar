@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Chaluka Rathnayaka
 
 🚀 **.NET Developer | 10+ years of experience | MSc Student at Stockholm University**
-
+Follow my Personal website [PortfolioWebsite](https://chalukar.netlify.app/)
+**About me**
 I specialize in designing secure, scalable .NET Core microservices integrated with Azure and containerized using Docker & Kubernetes.  
 Currently focused on **cloud-native architectures**, **test automation**, and **DevOps**.
 
@@ -22,7 +23,6 @@ Currently focused on **cloud-native architectures**, **test automation**, and **
 
 | Project | Description | Tech Highlights |
 |----------|--------------|----------------|
-| [PortfolioWebsite](https://chalukar.netlify.app/) | Personal website showcasing projects and contact info |
 | [**CleanArchitectureMinimalAPI**](https://github.com/chalukar/CleanArchitectureDotNet9-MinimalAPI-MongoDB) | Minimal API implementation using Clean Architecture | .NET 8, MongoDB, Docker |
 | [IoT-Scene-Management-Project-Python](https://github.com/chalukar/IoT-Scene-Management-Project-Python) | MSc Academic Project integrating Automation and Scene Management aspects of a Smart Home System|Python |
 | [IoT-Scene-Management-Project-Java](https://github.com/chalukar/IoT-Scene-Management-Project-Java) | MSc Academic Project integrating Automation and Scene Management aspects of a Smart Home System|Java |
