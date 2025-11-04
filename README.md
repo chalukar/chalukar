@@ -24,7 +24,10 @@ Currently focused on **cloud-native architectures**, **test automation**, and **
 |----------|--------------|----------------|
 | [PortfolioWebsite](https://chalukar.netlify.app/) | Personal website showcasing projects and contact info |
 | [**CleanArchitectureMinimalAPI**](https://github.com/chalukar/CleanArchitectureDotNet9-MinimalAPI-MongoDB) | Minimal API implementation using Clean Architecture | .NET 8, MongoDB, Docker |
-| [**Bisevo Integration Tests**](https://github.com/chalukar/BisevoIntegrationTests) | TDD-oriented integration test orchestration for microservices | xUnit, FluentAssertions, TestContainers |
+| [IoT-Scene-Management-Project-Python](https://github.com/chalukar/IoT-Scene-Management-Project-Python) | MSc Academic Project integrating Automation and Scene Management aspects of a Smart Home System|
+| [IoT-Scene-Management-Project-Java](https://github.com/chalukar/IoT-Scene-Management-Project-Java) | MSc Academic Project integrating Automation and Scene Management aspects of a Smart Home System|
+| [Pharmacy-Inventory-Management-System-MVC](https://github.com/chalukar/Pharmacy-Inventory-Management-System-MVC) | A web-based application designed to streamline pharmacy inventory and sales management.
+| [Simple-Binary-Message-Encoding-Scheme](https://github.com/chalukar/Simple-Binary-Message-Encoding-Scheme) | Simple Binary Message Encoder using .NET Core, xUnit Testing |
 
 ---
 
