@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Chaluka Rathnayaka
 
-<!--
-**chalukar/chalukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **.NET Developer | 10+ years of experience | MSc Student at Stockholm University**
 
-Here are some ideas to get you started:
+I specialize in designing secure, scalable .NET Core microservices integrated with Azure and containerized using Docker & Kubernetes.  
+Currently focused on **cloud-native architectures**, **test automation**, and **DevOps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack
+**Languages:** C#, SQL, JavaScript  
+**Frameworks:** .NET 6+, ASP.NET Core Web API, Entity Framework Core, Blazor  
+**Cloud & DevOps:** Azure (App Service, Service Bus, Functions, Blob Storage), Docker, Kubernetes, Azure DevOps CI/CD  
+**Messaging:** RabbitMQ, Azure Service Bus  
+**Databases:** SQL Server, MySQL, Mongo
+**Testing:** xUnit, MSTest, Moq  
+**Architecture:** Microservices, Event-driven, Domain-driven, Clean Architecture  
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description | Tech Highlights |
+|----------|--------------|----------------|
+| [**Kandy Kaffe**](https://github.com/chalukar/KandyKaffe) | Microservices-based restaurant ordering platform | .NET 8, Azure Service Bus, RabbitMQ, Stripe Checkout, Docker, Kubernetes |
+| [**CleanArchitectureMinimalAPI**](https://github.com/chalukar/CleanArchitectureMinimalAPI) | Minimal API implementation using Clean Architecture | .NET 8, MongoDB, Docker |
+| [**Bisevo Integration Tests**](https://github.com/chalukar/BisevoIntegrationTests) | TDD-oriented integration test orchestration for microservices | xUnit, FluentAssertions, TestContainers |
+
+---
+
+### 🎓 Current Focus
+🔹 Completing MSc research project on **AI-enhanced Living Green Walls** at Stockholm University  
+🔹 Exploring **OpenShift** and **Azure Kubernetes Service (AKS)** deployment automation  
+🔹 Preparing for **AZ-204 certification**
+
+---
+
+### 📫 Connect
+[LinkedIn](https://linkedin.com/in/chalukar) • [GitHub](https://github.com/chalukar) • 📧 chalukar.se@gmail.com
