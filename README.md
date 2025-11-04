@@ -4,7 +4,7 @@
 
 Follow my Personal website [PortfolioWebsite](https://chalukar.netlify.app/)
 
-**About me**
+### About me
 I specialize in designing secure, scalable .NET Core microservices integrated with Azure and containerized using Docker & Kubernetes.  
 Currently focused on **cloud-native architectures**, **test automation**, and **DevOps**.
 
