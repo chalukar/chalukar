@@ -23,7 +23,7 @@ Currently focused on **cloud-native architectures**, **test automation**, and **
 | Project | Description | Tech Highlights |
 |----------|--------------|----------------|
 | [PortfolioWebsite](https://github.com/chalukar/PortfolioWebsite) | Personal website showcasing projects and contact info |
-| [**CleanArchitectureMinimalAPI**](https://github.com/chalukar/CleanArchitectureMinimalAPI) | Minimal API implementation using Clean Architecture | .NET 8, MongoDB, Docker |
+| [**CleanArchitectureMinimalAPI**](https://github.com/chalukar/CleanArchitectureDotNet9-MinimalAPI-MongoDB) | Minimal API implementation using Clean Architecture | .NET 8, MongoDB, Docker |
 | [**Bisevo Integration Tests**](https://github.com/chalukar/BisevoIntegrationTests) | TDD-oriented integration test orchestration for microservices | xUnit, FluentAssertions, TestContainers |
 
 ---
