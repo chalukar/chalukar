@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chaluka Rathnayaka
+# 👋 Hi, I'm Chaluka Rathnayake
 
 🚀 **.NET Developer | 10+ years of experience | MSc Student at Stockholm University**
 
