@@ -25,10 +25,11 @@ Currently focused on **cloud-native architectures**, **test automation**, and **
 
 | Project | Description | Tech Highlights |
 |----------|--------------|----------------|
+| [Pharmacy-Inventory-Management-System-MVC](https://github.com/chalukar/Pharmacy-Inventory-Management-System-MVC) | A web-based application designed to streamline pharmacy inventory and sales management| .NET Core MVC, SQL, EF, Razor|
+| [LibraryAPISystem](https://github.com/chalukar/LibraryAPISystem.git) | Library API System | A small library domain with Domain-Driven Design (DDD), REST APIs |
 | [**CleanArchitectureMinimalAPI**](https://github.com/chalukar/CleanArchitectureDotNet9-MinimalAPI-MongoDB) | Minimal API implementation using Clean Architecture | .NET 8, MongoDB, Docker |
 | [IoT-Scene-Management-Project-Python](https://github.com/chalukar/IoT-Scene-Management-Project-Python) | MSc Academic Project integrating Automation and Scene Management aspects of a Smart Home System|Python |
 | [IoT-Scene-Management-Project-Java](https://github.com/chalukar/IoT-Scene-Management-Project-Java) | MSc Academic Project integrating Automation and Scene Management aspects of a Smart Home System|Java |
-| [Pharmacy-Inventory-Management-System-MVC](https://github.com/chalukar/Pharmacy-Inventory-Management-System-MVC) | A web-based application designed to streamline pharmacy inventory and sales management| .NET Core MVC, SQL, EF, Razor|
 | [Simple-Binary-Message-Encoding-Scheme](https://github.com/chalukar/Simple-Binary-Message-Encoding-Scheme) | Simple Binary Message Encoder | .NET Core, xUnit |
 
 ---
