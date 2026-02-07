@@ -25,7 +25,7 @@ Currently focused on **cloud-native architectures**, **test automation**, and **
 
 | Project | Description | Tech Highlights |
 |----------|--------------|----------------|
-| [KandyKaffe Restaurant Management System-MVC](https://github.com/chalukar/KandyKaffe-Restaurant-Web-dev) | A full-stack microservices-based restaurant management system built with .NET 8, featuring a comprehensive web application for managing menu items, orders, customers, and more.|
+| [KandyKaffe Restaurant Management System-MVC](https://github.com/chalukar/KandyKaffe-Restaurant-Web-dev) | A full-stack microservices-based restaurant management system built with .NET 8, featuring a comprehensive web application for managing menu items, orders, customers, and more.| .NET Core, Microservices, Azure, MVC, SQL, EF, Razor |
 | [Pharmacy-Inventory-Management-System-MVC](https://github.com/chalukar/Pharmacy-Inventory-Management-System-MVC) | A web-based application designed to streamline pharmacy inventory and sales management| .NET Core MVC, SQL, EF, Razor|
 | [LibraryAPISystem](https://github.com/chalukar/LibraryAPISystem.git) | Library API System | A small library domain with Domain-Driven Design (DDD), REST APIs |
 | [**CleanArchitectureMinimalAPI**](https://github.com/chalukar/CleanArchitectureDotNet9-MinimalAPI-MongoDB) | Minimal API implementation using Clean Architecture | .NET 8, MongoDB, Docker |
