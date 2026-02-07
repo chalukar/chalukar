@@ -1,4 +1,4 @@
-o# 👋 Hi, I'm Chaluka Rathnayake
+# 👋 Hi, I'm Chaluka Rathnayake
 
 🚀 **Senior Software Engineer | 10+ years of experience | Completed MSc at Stockholm University**
 
