@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Chaluka Rathnayake
+o# 👋 Hi, I'm Chaluka Rathnayake
 
-🚀 **.NET Developer | 10+ years of experience | Completed MSc at Stockholm University**
+🚀 **Senior Software Engineer | 10+ years of experience | Completed MSc at Stockholm University**
 
 Follow my Personal website [PortfolioWebsite](https://chalukar.netlify.app/)
 
