@@ -25,6 +25,7 @@ Currently focused on **cloud-native architectures**, **test automation**, and **
 
 | Project | Description | Tech Highlights |
 |----------|--------------|----------------|
+| [GreenWall LLM Integration](https://github.com/chalukar/GreenWall-LLM-Thesis) | A voice-interactive Vertical Living Green Wall system powered by AI that enables natural conversations between plants and humans. This project combines IoT sensors, speech recognition, and Large Language Models to create an intelligent plant monitoring and interaction system.| .NET Core, Python, LLM( ollama pull gemma2:2b)|
 | [KandyKaffe Restaurant Management System-MVC](https://github.com/chalukar/KandyKaffe-Restaurant-Web-dev) | A full-stack microservices-based restaurant management system built with .NET 8, featuring a comprehensive web application for managing menu items, orders, customers, and more.| .NET Core, Microservices, Azure, MVC, SQL, EF, Razor |
 | [Pharmacy-Inventory-Management-System-MVC](https://github.com/chalukar/Pharmacy-Inventory-Management-System-MVC) | A web-based application designed to streamline pharmacy inventory and sales management| .NET Core MVC, SQL, EF, Razor|
 | [LibraryAPISystem](https://github.com/chalukar/LibraryAPISystem.git) | Library API System | A small library domain with Domain-Driven Design (DDD), REST APIs |
